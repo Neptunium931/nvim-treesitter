@@ -46,7 +46,7 @@ return {
   asm = {
     install_info = {
       revision = '04962e15f6b464cf1d75eada59506dc25090e186',
-      url = 'https://github.com/RubixDev/tree-sitter-asm',
+      url = 'https://github.com/Neptunium931/tree-sitter-asm',
     },
     maintainers = { '@RubixDev' },
     tier = 2,
