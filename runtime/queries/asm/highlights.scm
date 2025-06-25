@@ -27,7 +27,7 @@
 
 (float) @number.float
 
-(string) @string
+(string_literal) @string
 
 ; Keywords
 [
